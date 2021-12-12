@@ -13,12 +13,14 @@
 - tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
 
 #### Rust学习
-- 基于rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
+- 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
 - 用Rust语言实现Python内置函数：[rust2python](https://github.com/miaoyc666/rust2python)
 - Python开发者如何学习Rust：[pythoner_learn_about_rust](https://github.com/miaoyc666/pythoner_learn_about_rust)
 
 #### Git相关
-- pass
+- Gitlab代码行数统计：[gitlab_code_statistics](https://github.com/miaoyc666/gitlab_code_statistics)
+- Git提交说明检查工具：[Git-commit-msg-check](https://github.com/miaoyc666/git-commit-msg-check)
+- Git提交检查：[pre-commit-lint](https://github.com/miaoyc666/pre-commit-lint)
 
 #### 读书笔记
 - GO语言趣学指南读书过程中写的小程序：[get_programming_with_go](https://github.com/miaoyc666/get_programming_with_go)
