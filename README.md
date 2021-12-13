@@ -1,4 +1,4 @@
-# miaoyc的项目索引
+# miaoyc的公开项目索引
 
 #### 数据结构与算法
 - 刷题记录：[algorithm](https://github.com/miaoyc666/algorithm) 
@@ -10,6 +10,7 @@
 - 用Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
 #### Python实战demo
+- 基于Python Pelican框架的博客模板，[pelican_blog](https://github.com/miaoyc666/pelican_blog)
 - tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
 
 #### Rust学习
@@ -26,7 +27,11 @@
 - GO语言趣学指南读书过程中写的小程序：[get_programming_with_go](https://github.com/miaoyc666/get_programming_with_go)
 
 #### 开发配置
-- pass
+- Vim，[MyVim](https://github.com/miaoyc666/MyVim)
+- Git，[mygit](https://github.com/miaoyc666/mygit)
 
 #### C/C++/C#归档
-- pass
+- MFC波形绘图组件，[plotdemo](https://github.com/miaoyc666/plotdemo)
+- Excel转Word，[Excel2Word](https://github.com/miaoyc666/Excel2Word)
+- Lrc计算器，[LrcCalc](https://github.com/miaoyc666/LrcCalc)
+- 添加跨平台的Vector和Matrix数据结构，[VectorTest](https://github.com/miaoyc666/VectorTest/tree/master/VectorTest)
