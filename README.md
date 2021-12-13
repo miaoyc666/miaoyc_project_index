@@ -5,11 +5,12 @@
 - 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
 - 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
 
-#### Golang函数库
+#### Golang武器库
 - Golang代码武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
+- Gin极简示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
 - 用Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
-#### Python实战demo
+#### Python武器库
 - 基于Python Pelican框架的博客模板，[pelican_blog](https://github.com/miaoyc666/pelican_blog)
 - tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
 
