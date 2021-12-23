@@ -7,7 +7,7 @@
 
 #### Golang武器库
 - Golang代码武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
-- Gin极简示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
+- 基于Gin的API接口框架示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
 - 用Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
 #### Python武器库
