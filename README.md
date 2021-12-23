@@ -1,5 +1,8 @@
 # miaoyc的公开项目索引
 
+#### 研发手册
+- 个人整理的研发手册速查：[rd-manual](https://github.com/miaoyc666/rd-manual)
+
 #### 数据结构与算法
 - 刷题记录：[algorithm](https://github.com/miaoyc666/algorithm) 
 - 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
