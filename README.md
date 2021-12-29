@@ -27,6 +27,9 @@
 - Git提交说明检查工具：[Git-commit-msg-check](https://github.com/miaoyc666/git-commit-msg-check)
 - Git提交检查：[pre-commit-lint](https://github.com/miaoyc666/pre-commit-lint)
 
+#### Nas相关
+- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
+
 #### 读书笔记
 - GO语言趣学指南读书过程中写的小程序：[get_programming_with_go](https://github.com/miaoyc666/get_programming_with_go)
 
