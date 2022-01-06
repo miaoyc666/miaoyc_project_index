@@ -35,9 +35,6 @@
 #### Nas相关
 - 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
 
-#### 读书笔记
-- GO语言趣学指南读书过程中写的小程序：[get_programming_with_go](https://github.com/miaoyc666/get_programming_with_go)
-
 #### 开发配置
 - Vim，[MyVim](https://github.com/miaoyc666/MyVim)
 - Git，[mygit](https://github.com/miaoyc666/mygit)
