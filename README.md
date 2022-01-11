@@ -27,6 +27,9 @@
 - 用Rust语言实现Python内置函数：[rust2python](https://github.com/miaoyc666/rust2python)
 - Python开发者如何学习Rust：[pythoner_learn_about_rust](https://github.com/miaoyc666/pythoner_learn_about_rust)
 
+#### K8s
+- K8s镜像拉取优化工具：[docker_pull_proxy](pass)
+
 #### Git相关
 - Gitlab代码行数统计：[gitlab_code_statistics](https://github.com/miaoyc666/gitlab_code_statistics)
 - Git提交说明检查工具：[Git-commit-msg-check](https://github.com/miaoyc666/git-commit-msg-check)
