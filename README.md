@@ -35,8 +35,9 @@
 - Git提交说明检查工具：[Git-commit-msg-check](https://github.com/miaoyc666/git-commit-msg-check)
 - Git提交检查：[pre-commit-lint](https://github.com/miaoyc666/pre-commit-lint)
 
-#### Nas相关
+#### Homelab相关
 - 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
+- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
 
 #### 开发配置
 - Vim，[MyVim](https://github.com/miaoyc666/MyVim)
