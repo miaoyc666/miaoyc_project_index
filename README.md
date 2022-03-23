@@ -18,9 +18,10 @@
 - Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
 #### Python武器库
-- 基于Python Pelican框架的博客模板，[pelican_blog](https://github.com/miaoyc666/pelican_blog)
-- tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
 - 基于python官方docker镜像制作的python开发底包：[base-python](https://github.com/miaoyc666/base-python)
+- 基于Python Pelican框架的博客模板：[pelican_blog](https://github.com/miaoyc666/pelican_blog)
+- tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
+- flask login：[flask_login_demo](https://github.com/miaoyc666/flask_login_demo)
 
 #### Rust学习
 - 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
