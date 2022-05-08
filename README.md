@@ -2,6 +2,7 @@
 
 #### 研发手册
 - 个人整理的研发手册速查：[rd-manual](https://github.com/miaoyc666/rd-manual)
+- 研发配置一键配置：[RD-one-click-configuration](https://github.com/miaoyc666/RD-one-click-configuration)
 
 #### 刷题
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
