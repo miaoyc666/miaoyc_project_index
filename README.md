@@ -6,7 +6,7 @@
 
 #### 刷题
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
-- 刷题记录：[algorithm](https://github.com/miaoyc666/algorithm) 
+- 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
 
 #### 经典数据结构与算法
 - 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
