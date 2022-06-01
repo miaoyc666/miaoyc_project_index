@@ -44,6 +44,7 @@
 #### 开发配置
 - Vim，[MyVim](https://github.com/miaoyc666/MyVim)
 - Git，[mygit](https://github.com/miaoyc666/mygit)
+- Sublime-text，[my-sublime-text](https://github.com/miaoyc666/my-sublime-text)
 
 #### C/C++/C#归档
 - MFC波形绘图组件，[plotdemo](https://github.com/miaoyc666/plotdemo)
