@@ -8,6 +8,14 @@
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
 - 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
 
+#### 集群配置
+- zookeeper[]()
+- clickhouse[]()
+- jmeter[]()
+
+#### K8s
+- docker镜像拉取优化工具：[docker_pull_proxy](pass)
+
 #### 经典数据结构与算法
 - 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
 - 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
@@ -28,9 +36,6 @@
 - 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
 - 用Rust语言实现Python内置函数：[rust2python](https://github.com/miaoyc666/rust2python)
 - Python开发者如何学习Rust：[pythoner_learn_about_rust](https://github.com/miaoyc666/pythoner_learn_about_rust)
-
-#### K8s
-- docker镜像拉取优化工具：[docker_pull_proxy](pass)
 
 #### Git相关
 - Gitlab代码行数统计：[gitlab_code_statistics](https://github.com/miaoyc666/gitlab_code_statistics)
