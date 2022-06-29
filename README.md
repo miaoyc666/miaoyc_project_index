@@ -9,9 +9,10 @@
 - 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
 
 #### 集群配置
-- zookeeper[]()
-- clickhouse[]()
-- jmeter[]()
+- etdcd[etcd-setup](./https://github.com/miaoyc666/etcd-setup)
+- zookeeper[zookeeper-setup](./https://github.com/miaoyc666/zookeeper-setup)
+- clickhouse[clickhouse-setup](./https://github.com/miaoyc666/clickhouse-setup)
+- jmeter[jmeter-setup](./https://github.com/miaoyc666/jmeter-setup)
 
 #### K8s
 - docker镜像拉取优化工具：[docker_pull_proxy](pass)
