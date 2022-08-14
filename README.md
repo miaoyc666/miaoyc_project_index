@@ -8,6 +8,10 @@
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
 - 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
 
+#### Homelab相关
+- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
+- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
+
 #### 集群配置
 - consul: [consul-setup](https://github.com/miaoyc666/consul-setup)
 - etdcd：[etcd-setup](https://github.com/miaoyc666/etcd-setup)
@@ -46,10 +50,6 @@
 - Gitlab代码行数统计：[gitlab_code_statistics](https://github.com/miaoyc666/gitlab_code_statistics)
 - Git提交说明检查工具：[Git-commit-msg-check](https://github.com/miaoyc666/git-commit-msg-check)
 - Git提交检查：[pre-commit-lint](https://github.com/miaoyc666/pre-commit-lint)
-
-#### Homelab相关
-- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
-- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
 
 #### 开发配置
 - Vim，[MyVim](https://github.com/miaoyc666/MyVim)
