@@ -27,12 +27,13 @@
 - 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
 
 #### Golang武器库
-- Golang代码武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
+- Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
 - 基于Gin的API接口框架示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
 - Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
 - Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
 #### Python武器库
+- Python武器库：[pyArsenal](https://github.com/miaoyc666/pyArsenal)
 - 基于python官方docker镜像制作的python开发底包：[base-python](https://github.com/miaoyc666/base-python)
 - 基于Python Pelican框架的博客模板：[pelican_blog](https://github.com/miaoyc666/pelican_blog)
 - tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
