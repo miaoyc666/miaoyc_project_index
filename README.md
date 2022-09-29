@@ -8,6 +8,10 @@
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
 - 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
 
+#### 经典数据结构与算法
+- 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
+- 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
+
 #### Homelab相关
 - 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
 - Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
@@ -18,13 +22,6 @@
 - zookeeper：[zookeeper-setup](https://github.com/miaoyc666/zookeeper-setup)
 - clickhouse：[clickhouse-setup](https://github.com/miaoyc666/clickhouse-setup)
 - jmeter：[jmeter-setup](https://github.com/miaoyc666/jmeter-setup)
-
-#### K8s
-- docker镜像拉取优化工具：[docker_pull_proxy](pass)
-
-#### 经典数据结构与算法
-- 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
-- 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
 
 #### Golang武器库
 - Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
@@ -43,6 +40,9 @@
 - 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
 - 用Rust语言实现Python内置函数：[rust2python](https://github.com/miaoyc666/rust2python)
 - Python开发者如何学习Rust：[pythoner_learn_about_rust](https://github.com/miaoyc666/pythoner_learn_about_rust)
+
+#### K8s
+- docker镜像拉取优化工具：[docker_pull_proxy](pass)
 
 #### 前端
 - Vue学习笔记：[vue](https://github.com/miaoyc666/vue)
