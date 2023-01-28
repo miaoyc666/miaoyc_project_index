@@ -8,26 +8,30 @@
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
 - 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
 
+#### 经典数据结构与算法
+- 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
+- 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
+
+#### Homelab相关
+- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
+- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
+- 自动化安装k8s集群：[ansible-k8s](https://github.com/miaoyc666/ansible-k8s)
+
 #### 集群配置
+- consul: [consul-setup](https://github.com/miaoyc666/consul-setup)
 - etdcd：[etcd-setup](https://github.com/miaoyc666/etcd-setup)
 - zookeeper：[zookeeper-setup](https://github.com/miaoyc666/zookeeper-setup)
 - clickhouse：[clickhouse-setup](https://github.com/miaoyc666/clickhouse-setup)
 - jmeter：[jmeter-setup](https://github.com/miaoyc666/jmeter-setup)
 
-#### K8s
-- docker镜像拉取优化工具：[docker_pull_proxy](pass)
-
-#### 经典数据结构与算法
-- 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
-- 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
-
 #### Golang武器库
-- Golang代码武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
+- Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
 - 基于Gin的API接口框架示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
 - Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
 - Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
 #### Python武器库
+- Python武器库：[pyArsenal](https://github.com/miaoyc666/pyArsenal)
 - 基于python官方docker镜像制作的python开发底包：[base-python](https://github.com/miaoyc666/base-python)
 - 基于Python Pelican框架的博客模板：[pelican_blog](https://github.com/miaoyc666/pelican_blog)
 - tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
@@ -38,17 +42,17 @@
 - 用Rust语言实现Python内置函数：[rust2python](https://github.com/miaoyc666/rust2python)
 - Python开发者如何学习Rust：[pythoner_learn_about_rust](https://github.com/miaoyc666/pythoner_learn_about_rust)
 
+#### K8s
+- docker镜像拉取优化工具：[docker_pull_proxy](pass)
+
 #### 前端
 - Vue学习笔记：[vue](https://github.com/miaoyc666/vue)
+- docsify：[docsify](https://github.com/miaoyc666/docsify-demo)
 
 #### Git相关
 - Gitlab代码行数统计：[gitlab_code_statistics](https://github.com/miaoyc666/gitlab_code_statistics)
 - Git提交说明检查工具：[Git-commit-msg-check](https://github.com/miaoyc666/git-commit-msg-check)
 - Git提交检查：[pre-commit-lint](https://github.com/miaoyc666/pre-commit-lint)
-
-#### Homelab相关
-- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
-- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
 
 #### 开发配置
 - Vim，[MyVim](https://github.com/miaoyc666/MyVim)
