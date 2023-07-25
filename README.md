@@ -2,7 +2,7 @@
 
 #### 研发手册
 - 个人整理的研发手册速查：[rd-manual](https://github.com/miaoyc666/rd-manual)
-- 研发配置一键配置：[RD-one-click-configuration](https://github.com/miaoyc666/RD-one-click-configuration)
+- 默认研发工具一键配置：[RD-one-click-configuration](https://github.com/miaoyc666/RD-one-click-configuration)
 
 #### 刷题
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
@@ -22,11 +22,13 @@
 - etdcd：[etcd-setup](https://github.com/miaoyc666/etcd-setup)
 - zookeeper：[zookeeper-setup](https://github.com/miaoyc666/zookeeper-setup)
 - clickhouse：[clickhouse-setup](https://github.com/miaoyc666/clickhouse-setup)
+- es：[es-setup](https://github.com/miaoyc666/es-setup)
 - jmeter：[jmeter-setup](https://github.com/miaoyc666/jmeter-setup)
 
 #### Golang武器库
 - Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
 - 基于Gin的API接口框架示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
+- 基于echo的API接口框架示例：[go-echo-example](https://github.com/miaoyc666/go-echo-example)
 - Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
 - Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
 
@@ -41,6 +43,7 @@
 - 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
 - 用Rust语言实现Python内置函数：[rust2python](https://github.com/miaoyc666/rust2python)
 - Python开发者如何学习Rust：[pythoner_learn_about_rust](https://github.com/miaoyc666/pythoner_learn_about_rust)
+- Rust武器库：[rustArsenal](https://github.com/miaoyc666/rustArsenal)
 
 #### K8s
 - docker镜像拉取优化工具：[docker_pull_proxy](pass)
