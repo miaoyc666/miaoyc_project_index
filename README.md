@@ -27,7 +27,7 @@
 
 #### Golang武器库
 - Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
-- 基于Gin的API接口框架示例：[simple-go-gin-example](https://github.com/miaoyc666/simple-go-gin-example)
+- 基于Gin的API接口框架示例：[go-gin-framework](https://github.com/miaoyc666/go-gin-framework)
 - 基于echo的API接口框架示例：[go-echo-example](https://github.com/miaoyc666/go-echo-example)
 - Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
 - Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
