@@ -2,7 +2,6 @@
 
 #### 研发手册
 - 个人整理的研发手册速查：[rd-manual](https://github.com/miaoyc666/rd-manual)
-- 默认研发工具一键配置：[RD-one-click-configuration](https://github.com/miaoyc666/RD-one-click-configuration)
 
 #### 刷题
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
@@ -61,6 +60,7 @@
 - Vim，[MyVim](https://github.com/miaoyc666/MyVim)
 - Git，[mygit](https://github.com/miaoyc666/mygit)
 - Sublime-text，[my-sublime-text](https://github.com/miaoyc666/my-sublime-text)
+- 默认研发工具一键配置：[RD-one-click-configuration](https://github.com/miaoyc666/RD-one-click-configuration)
 
 #### C/C++/C#归档
 - MFC波形绘图组件，[plotdemo](https://github.com/miaoyc666/plotdemo)
