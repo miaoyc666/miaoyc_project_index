@@ -15,6 +15,7 @@
 - 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
 - Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
 - 自动化安装k8s集群：[ansible-k8s](https://github.com/miaoyc666/ansible-k8s)
+- squid https代理：[squid-https](https://github.com/miaoyc666/squid-https)
 
 #### 集群配置
 - consul: [consul-setup](https://github.com/miaoyc666/consul-setup)
