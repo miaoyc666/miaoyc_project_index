@@ -27,6 +27,7 @@
 
 #### Golang武器库
 - Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
+- Myself web framework[go-jinjin](https://github.com/miaoyc666/go-jinjin)
 - Kratos构建的helloworld：[kratos demo](https://github.com/miaoyc666/kratos-demo)
 - 基于Gin的API接口框架示例：[go-gin-framework](https://github.com/miaoyc666/go-gin-framework)
 - 基于echo的API接口框架示例：[go-echo-example](https://github.com/miaoyc666/go-echo-example)
