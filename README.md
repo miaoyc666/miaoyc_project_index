@@ -51,7 +51,7 @@
 - docker镜像拉取优化工具：[docker_pull_proxy](pass)
 
 #### 前端
-- Vue学习笔记：[vue](https://github.com/miaoyc666/vue)
+- 前端学习笔记：[fe study](https://github.com/miaoyc666/fe-study)
 - docsify：[docsify](https://github.com/miaoyc666/docsify-demo)
 
 #### Git相关
