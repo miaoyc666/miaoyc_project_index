@@ -40,6 +40,7 @@
 - 基于Python Pelican框架的博客模板：[pelican_blog](https://github.com/miaoyc666/pelican_blog)
 - tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
 - flask login：[flask_login_demo](https://github.com/miaoyc666/flask_login_demo)
+- django demo：[hello-django](https://github.com/miaoyc666/hello-django)
 
 #### Rust学习
 - 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
