@@ -6,6 +6,26 @@
 #### 研发手册
 - 个人整理的研发手册速查：[rd-manual](https://github.com/miaoyc666/rd-manual)
 
+#### Homelab相关
+- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
+- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
+- 自动化安装k8s集群：[ansible-k8s](https://github.com/miaoyc666/ansible-k8s)
+- squid https代理：[squid-https](https://github.com/miaoyc666/squid-https)
+  
+#### Golang武器库
+- Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
+- Myself web framework：[go-jinjin](https://github.com/miaoyc666/go-jinjin)
+- 基于Gin的API接口框架示例：[go-gin-framework](https://github.com/miaoyc666/go-gin-framework)
+- Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
+- Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
+- 一些demo：[grpc demo](https://github.com/miaoyc666/grpc_demo)，[thrift demo](https://github.com/miaoyc666/thrift_demo)，[go-echo-example](https://github.com/miaoyc666/go-echo-example)，[kratos demo](https://github.com/miaoyc666/kratos-demo)
+
+#### Python武器库
+- Python武器库：[pyArsenal](https://github.com/miaoyc666/pyArsenal)
+- 基于python官方docker镜像制作的python开发底包：[base-python](https://github.com/miaoyc666/base-python)
+- 基于Python Pelican框架的博客模板：[pelican_blog](https://github.com/miaoyc666/pelican_blog)
+- 一些demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)，[flask_login_demo](https://github.com/miaoyc666/flask_login_demo)，[hello-django](https://github.com/miaoyc666/hello-django)
+
 #### 刷题
 - 不被手册问题难倒，不做低水平面试官：[funny_interview](https://github.com/miaoyc666/funny_interview)
 - 算法训练：[algorithm](https://github.com/miaoyc666/algorithm) 
@@ -14,12 +34,6 @@
 - 经典算法：[classicalAlgorithm](https://github.com/miaoyc666/classicalAlgorithm)
 - 布隆过滤器：[bloomfilter](https://github.com/miaoyc666/bloomfilter)
 
-#### Homelab相关
-- 个人密码库部署：[caddy_bitwarden](https://github.com/miaoyc666/caddy_bitwarden)
-- Homelab配置：[homelab](https://github.com/miaoyc666/homelab)
-- 自动化安装k8s集群：[ansible-k8s](https://github.com/miaoyc666/ansible-k8s)
-- squid https代理：[squid-https](https://github.com/miaoyc666/squid-https)
-
 #### 集群配置
 - consul: [consul-setup](https://github.com/miaoyc666/consul-setup)
 - etdcd：[etcd-setup](https://github.com/miaoyc666/etcd-setup)
@@ -27,23 +41,6 @@
 - clickhouse：[clickhouse-setup](https://github.com/miaoyc666/clickhouse-setup)
 - es：[es-setup](https://github.com/miaoyc666/es-setup)
 - jmeter：[jmeter-setup](https://github.com/miaoyc666/jmeter-setup)
-
-#### Golang武器库
-- Golang武器库：[goArsenal](https://github.com/miaoyc666/goArsenal)
-- Myself web framework[go-jinjin](https://github.com/miaoyc666/go-jinjin)
-- Kratos构建的helloworld：[kratos demo](https://github.com/miaoyc666/kratos-demo)
-- 基于Gin的API接口框架示例：[go-gin-framework](https://github.com/miaoyc666/go-gin-framework)
-- 基于echo的API接口框架示例：[go-echo-example](https://github.com/miaoyc666/go-echo-example)
-- Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
-- Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
-
-#### Python武器库
-- Python武器库：[pyArsenal](https://github.com/miaoyc666/pyArsenal)
-- 基于python官方docker镜像制作的python开发底包：[base-python](https://github.com/miaoyc666/base-python)
-- 基于Python Pelican框架的博客模板：[pelican_blog](https://github.com/miaoyc666/pelican_blog)
-- tornado demo：[hello_tornado](https://github.com/miaoyc666/hello_tornado)
-- flask login：[flask_login_demo](https://github.com/miaoyc666/flask_login_demo)
-- django demo：[hello-django](https://github.com/miaoyc666/hello-django)
 
 #### Rust学习
 - 基于Rust的sdk库demo：[rust-sdk](https://github.com/miaoyc666/rust-sdk)
