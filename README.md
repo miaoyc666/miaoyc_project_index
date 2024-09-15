@@ -18,7 +18,7 @@
 - 基于Gin的API接口框架示例：[go-gin-framework](https://github.com/miaoyc666/go-gin-framework)
 - Go常见错误：[go-mistakes](https://github.com/miaoyc666/go-mistakes)
 - Go语言实现Python内置函数：[go2python](https://github.com/miaoyc666/go2python)
-- 一些demo：[grpc demo](https://github.com/miaoyc666/grpc_demo)，[thrift demo](https://github.com/miaoyc666/thrift_demo)，[go-echo-example](https://github.com/miaoyc666/go-echo-example)，[kratos demo](https://github.com/miaoyc666/kratos-demo), [ent demo](https://github.com/miaoyc666/ent_demo)
+- 一些demo：[grpc demo](https://github.com/miaoyc666/grpc_demo)，[thrift demo](https://github.com/miaoyc666/thrift_demo)，[go-echo-example](https://github.com/miaoyc666/go-echo-example)，[kratos demo](https://github.com/miaoyc666/kratos-demo), [ent demo](https://github.com/miaoyc666/ent_demo), [wire demo](https://github.com/miaoyc666/wire_demo)
 
 #### Python武器库
 - Python武器库：[pyArsenal](https://github.com/miaoyc666/pyArsenal)
