@@ -4,6 +4,7 @@
 
 - GitHub：[@miaoyc666](https://github.com/miaoyc666)
 - 本索引最后更新：2026-07-21
+- 项目索引整理：[OpenAI Codex](https://github.com/apps/chatgpt-codex-connector) 协助维护
 - 说明：已分类项目保持现有结构，其他公开仓库统一收录在文末的“未分类项目”中；`Fork` 表示复刻项目
 
 ## 近期项目
