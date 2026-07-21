@@ -105,28 +105,6 @@
 - [LrcCalc](https://github.com/miaoyc666/LrcCalc)：LRC 计算器
 - [VectorTest](https://github.com/miaoyc666/VectorTest)：跨平台 Vector 和 Matrix 数据结构
 
-## 项目快照
-
-- 2023-10-26
-
-  ![2023-10-26 项目快照](./snapshot/23.10.26.png)
-
-- 2023-01-28
-
-  ![2023-01-28 项目快照](./snapshot/23.1.28.png)
-
-- 2022-07-11
-
-  ![2022-07-11 项目快照](./snapshot/22.7.11.png)
-
-- 2021-12-14
-
-  ![2021-12-14 项目快照](./snapshot/21.12.14.png)
-
-- 2021-06-28
-
-  ![2021-06-28 项目快照](./snapshot/21.6.28.png)
-
 ## 未分类项目
 
 以下项目尚未归入上面的分类，其中 `Fork` 表示复刻项目。
@@ -165,3 +143,26 @@
 - [ragflow](https://github.com/miaoyc666/ragflow) **[Fork]**：RAG engine（Python）
 - [slowpan](https://github.com/miaoyc666/slowpan)：慢网盘
 - [vitess-sqlparser](https://github.com/miaoyc666/vitess-sqlparser) **[Fork]**：SQL Parser for Go
+
+
+## 项目快照
+
+- 2023-10-26
+
+  ![2023-10-26 项目快照](./snapshot/23.10.26.png)
+
+- 2023-01-28
+
+  ![2023-01-28 项目快照](./snapshot/23.1.28.png)
+
+- 2022-07-11
+
+  ![2022-07-11 项目快照](./snapshot/22.7.11.png)
+
+- 2021-12-14
+
+  ![2021-12-14 项目快照](./snapshot/21.12.14.png)
+
+- 2021-06-28
+
+  ![2021-06-28 项目快照](./snapshot/21.6.28.png)
